@@ -50,7 +50,10 @@ IF(
 )
 
 ## DASHBOARD 
-![powerbi_personal_finance](POWERBI_DASHBOARD.IMG.png)
+![powerbi_personal_finance](https://github.com/udayasri009/powerbi_Personal_Finance/blob/main/personal_finance.img.png)
 
 ## Project Insight
+The dashboard highlighted key performance gaps between actual income and targets, identified top-performing categories, and revealed periods of underachievement. These insights help stakeholders monitor progress, optimize targets, and improve overall income performance.
 
+## Final conclusion
+The Income Monitoring Dashboard successfully transforms raw financial data into meaningful and actionable insights by clearly comparing actual income against predefined targets. Through interactive KPI cards, trend analysis, and category-level breakdowns, the dashboard enables continuous tracking of income performance and highlights variances that require immediate attention.
